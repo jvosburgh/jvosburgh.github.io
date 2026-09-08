@@ -6,15 +6,6 @@ I help founders, engineers, and technical teams validate markets, build clear te
 
 ---
 
-## Navigation
-[Technical Explainers](/explainers) • 
-[GTM Frameworks](/frameworks) • 
-[AI Workflows](/ai-workflows) • 
-[Narratives](/narratives) • 
-[Experience](/experience) • 
-[Skills](/skills) • 
-[Education](/education)
-
 ---
 
 ## Featured Work
