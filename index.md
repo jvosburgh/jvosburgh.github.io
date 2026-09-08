@@ -1,6 +1,6 @@
-\# Jason Vosburgh  
+\# Jason Vosburgh
 
-\### Technical Product Marketing \& GTM Leader  
+\### Technical Product Marketing \& GTM Leader
 
 Energy Infrastructure • Climate Tech • Industrial SaaS • AI Workflows
 
@@ -12,19 +12,19 @@ Energy Infrastructure • Climate Tech • Industrial SaaS • AI Workflows
 
 \## Navigation
 
-\[Home](#jason-vosburgh) • 
+\[Home](#jason-vosburgh) •
 
-\[Technical GTM Frameworks](#technical-gtm-frameworks) • 
+\[Technical GTM Frameworks](#technical-gtm-frameworks) •
 
-\[AI Workflows](#ai-workflows) • 
+\[AI Workflows](#ai-workflows) •
 
-\[Technical Explainers](#technical-explainers) • 
+\[Technical Explainers](#technical-explainers) •
 
-\[Founder \& Developer Narratives](#founder--developer-narratives) • 
+\[Founder \& Developer Narratives](#founder--developer-narratives) •
 
-\[Positioning Frameworks](#positioning-frameworks) • 
+\[Positioning Frameworks](#positioning-frameworks) •
 
-\[About](#about) • 
+\[About](#about) •
 
 \[Contact](#contact)
 
@@ -40,11 +40,11 @@ Energy Infrastructure • Climate Tech • Industrial SaaS • AI Workflows
 
 \### Technical Narrative Development
 
-You translate engineering-heavy concepts into clear, founder-ready narratives that drive adoption.  
+You translate engineering-heavy concepts into clear, founder-ready narratives that drive adoption.
 
-\*\*Inputs:\*\* product specs, operator workflows, engineering notes  
+\*\*Inputs:\*\* product specs, operator workflows, engineering notes
 
-\*\*Outputs:\*\* narrative spine, value pillars, proof points  
+\*\*Outputs:\*\* narrative spine, value pillars, proof points
 
 \*\*Used for:\*\* founder decks, product pages, sales enablement
 
@@ -52,9 +52,9 @@ You translate engineering-heavy concepts into clear, founder-ready narratives th
 
 \### Market Validation Loop
 
-A repeatable system for early-stage commercialization.  
+A repeatable system for early-stage commercialization.
 
-Hypothesis → customer interviews → signal scoring → iteration  
+Hypothesis → customer interviews → signal scoring → iteration
 
 Supports PLG evaluation and early GTM alignment.
 
@@ -68,7 +68,7 @@ You build pricing models that reflect operational value, usage patterns, and ent
 
 \### PLG Activation → Conversion Motion
 
-You design evaluation paths that reduce friction for technical users:  
+You design evaluation paths that reduce friction for technical users:
 
 trial setup → data ingestion → configuration → validation → ROI modeling.
 
@@ -90,17 +90,17 @@ A structured CI workflow that synthesizes competitor updates, pricing changes, s
 
 \### AI Competitive Intelligence Engine
 
-A reusable workflow that automates CI synthesis:  
+A reusable workflow that automates CI synthesis:
 
-\- competitor product updates  
+\- competitor product updates
 
-\- pricing changes  
+\- pricing changes
 
-\- positioning shifts  
+\- positioning shifts
 
-\- customer sentiment  
+\- customer sentiment
 
-\- emerging market signals  
+\- emerging market signals
 
 
 
@@ -110,7 +110,7 @@ Reduces research time from hours → minutes.
 
 \### AI Lead Generation \& Persona Mapping
 
-Automates founder/CTO research, segmentation, and early qualification signals.  
+Automates founder/CTO research, segmentation, and early qualification signals.
 
 Improves targeting accuracy and accelerates pipeline creation.
 
@@ -118,15 +118,15 @@ Improves targeting accuracy and accelerates pipeline creation.
 
 \### AI Technical Content Acceleration
 
-Generates developer-friendly explainers for:  
+Generates developer-friendly explainers for:
 
-\- SCADA data flows  
+\- SCADA data flows
 
-\- DER onboarding  
+\- DER onboarding
 
-\- emissions reporting  
+\- emissions reporting
 
-\- compressor analytics  
+\- compressor analytics
 
 
 
@@ -153,6 +153,16 @@ Explains distributed energy resource integration, operational impacts, and utili
 \### Cloud-Based SCADA Data Flows
 
 Covers ingestion, storage, operational metrics, and how engineering teams use cloud SCADA systems.
+
+\---
+
+layout: default
+
+title: Jason Vosburgh
+
+theme: minima
+
+\---
 
 
 
@@ -198,7 +208,7 @@ You guide pricing, customer prioritization, and narrative development for climat
 
 \### Technical Product → Business Outcome
 
-A structured approach:  
+A structured approach:
 
 Capability → Problem → Value → Proof → Differentiation
 
@@ -216,7 +226,7 @@ Frameworks for climate tech, industrial automation, operational analytics, and e
 
 \## About
 
-Technical product marketing and commercialization leader with 15+ years helping B2B organizations bring complex energy, climate tech, and SaaS solutions to market.  
+Technical product marketing and commercialization leader with 15+ years helping B2B organizations bring complex energy, climate tech, and SaaS solutions to market.
 
 You build GTM systems that scale, narratives that clarify, and workflows that accelerate adoption.
 
@@ -228,7 +238,7 @@ You build GTM systems that scale, narratives that clarify, and workflows that ac
 
 \## Contact
 
-\*\*Email:\*\* jason@vosdigitalmarketing.com  
+\*\*Email:\*\* jason@vosdigitalmarketing.com
 
 \*\*LinkedIn:\*\* https://www.linkedin.com/in/jasonvosburgh
 
