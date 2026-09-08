@@ -1,56 +1,43 @@
-\---
+# Jason Vosburgh  
+### Technical Product Marketing & GTM Leader  
+Energy • Climate Tech • Industrial SaaS • AI Workflows
 
-layout: home
+I help founders, engineers, and technical teams validate markets, build clear technical narratives, and scale adoption of complex B2B and AI‑driven products. My work spans climate tech, industrial systems, SaaS, and emerging AI workflows — translating cloud, data, analytics, and AI/ML capabilities into use cases that resonate with developers and technical decision‑makers.
 
-title: Jason Vosburgh
+---
 
-tagline: Technical Product Marketing \& GTM Leader
+## Navigation
+[Technical Explainers](/explainers) • 
+[GTM Frameworks](/frameworks) • 
+[AI Workflows](/ai-workflows) • 
+[Narratives](/narratives) • 
+[Experience](/experience) • 
+[Skills](/skills) • 
+[Education](/education)
 
-subtagline: Energy Infrastructure • Climate Tech • Industrial SaaS • AI Workflows
+---
 
-\---
+## Featured Work
 
+### Technical Explainers
+Deep dives into methane mitigation systems, SCADA workflows, compressor analytics, and early‑stage SaaS platforms.  
+→ [View explainers](/explainers)
 
+### GTM Frameworks
+Market validation loops, PLG activation motions, technical narrative development, and AI‑accelerated CI engines.  
+→ [View frameworks](/frameworks)
 
-\## GTM Frameworks {#gtm}
+### AI Workflows
+AI‑accelerated competitive intelligence, persona mapping, and technical content generation.  
+→ [View AI workflows](/ai-workflows)
 
-Content goes here.
+### Founder & Developer Narratives
+Stories demonstrating how I translate engineering into clarity and accelerate technical adoption.  
+→ [View narratives](/narratives)
 
+---
 
-
-\## AI Workflows {#ai}
-
-Content goes here.
-
-
-
-\## Technical Explainers {#explainers}
-
-Content goes here.
-
-
-
-\## Founder Narratives {#founder}
-
-Content goes here.
-
-
-
-\## Positioning Frameworks {#positioning}
-
-Content goes here.
-
-
-
-\## About {#about}
-
-Short bio goes here.
-
-
-
-\## Contact {#contact}
-
-Email: jason@vosdigitalmarketing.com  
-
-LinkedIn: linkedin.com/in/jasonvosburgh
+## Contact
+**Email:** jason@vosdigitalmarketing.com  
+**LinkedIn:** linkedin.com/in/jasonvosburgh
 
