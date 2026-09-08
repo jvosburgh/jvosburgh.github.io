@@ -1,2 +1,11 @@
 theme: minima
 title: Jason Vosburgh
+header_pages:
+  - index.md
+  - explainers.md
+  - frameworks.md
+  - ai-workflows.md
+  - narratives.md
+  - experience.md
+  - skills.md
+  - education.md
