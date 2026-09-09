@@ -62,3 +62,34 @@ a.arrow-link {
 section {
     margin-bottom: 2.5rem;
 }
+
+/* Header */
+.site-header {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #111;
+    text-decoration: none;
+}
+
+.site-nav a {
+    margin-left: 1rem;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+}
