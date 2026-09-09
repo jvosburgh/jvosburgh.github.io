@@ -18,7 +18,7 @@ Market validation loops, PLG activation motions, technical narrative development
 AI‑accelerated competitive intelligence, persona mapping, and technical content generation.  
 [→ View AI workflows](ai-workflows.md)
 
-### Founder & Developer Narratives  
+### Narratives  
 Stories demonstrating how I translate engineering into clarity and accelerate technical adoption.  
 [→ View narratives](narratives.md)
 
