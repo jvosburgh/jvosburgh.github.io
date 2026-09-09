@@ -8,19 +8,19 @@ I partner with early‑stage software and manufacturing teams to validate market
 
 ### Technical Explainers  
 Deep dives into methane mitigation systems, SCADA workflows, compressor analytics, and early‑stage SaaS platforms.  
-[→ View explainers](/explainers/)
+[→ View explainers](explainers.md)
 
 ### GTM Frameworks  
 Market validation loops, PLG activation motions, technical narrative development, and AI‑accelerated CI engines.  
-[→ View frameworks](/frameworks/)
+[→ View frameworks](frameworks.md)
 
 ### AI Workflows  
 AI‑accelerated competitive intelligence, persona mapping, and technical content generation.  
-[→ View AI workflows](/ai-workflows/)
+[→ View AI workflows](ai-workflows.md)
 
 ### Founder & Developer Narratives  
 Stories demonstrating how I translate engineering into clarity and accelerate technical adoption.  
-[→ View narratives](/narratives/)
+[→ View narratives](narratives.md)
 
 ---
 
