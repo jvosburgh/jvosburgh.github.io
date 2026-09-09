@@ -1,6 +1,6 @@
 #  Narratives
 
-## Helping Founders Commercialize Technical Products
+## Helping Companies Commercialize Technical Products
 
 Built GTM frameworks, pricing strategies, and technical messaging for early‑stage teams.
 

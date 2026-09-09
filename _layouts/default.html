@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- Minima base styles -->
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+  <!-- Your custom stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+  <header class="site-header">
+    {{ site.title }}
+    {% include header.html %}
+  </header>
+
+  <main class="page-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    {% include footer.html %}
+  </footer>
+
+</body>
+</html>

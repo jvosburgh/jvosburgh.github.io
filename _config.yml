@@ -9,3 +9,6 @@ header_pages:
   - experience.md
   - skills.md
   - education.md
+
+  include:
+  - assets/css/style.css
