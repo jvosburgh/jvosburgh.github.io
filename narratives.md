@@ -1,4 +1,4 @@
-# \# Narratives
+#  Narratives
 
 ## Helping Founders Commercialize Technical Products
 
