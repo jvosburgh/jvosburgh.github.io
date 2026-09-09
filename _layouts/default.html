@@ -4,29 +4,19 @@
   <meta charset="utf-8">
   <title>{{ page.title }} | {{ site.title }}</title>
 
-  <!-- Minima base styles -->
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-
-  <!-- Your custom stylesheet -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
 <body>
 
-    {% include header.html %}
-
-  <header class="site-header">
-    {{ site.title }}
-    {% include header.html %}
-  </header>
+  {% include header.html %}
 
   <main class="page-content">
     {{ content }}
   </main>
 
-  <footer class="site-footer">
-    <p>© 2026</p>
-  </footer>
+  {% include footer.html %}
 
 </body>
 </html>
