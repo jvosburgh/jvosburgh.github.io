@@ -1,4 +1,6 @@
-### Pipeline Evacuation & Methane Capture Systems
+## Technical Explainers
+
+### Pipeline Evacuation and Methane Capture Systems
 Breakdown of how emission‑reduction compressors draw down pipelines, capture gas, and integrate with cloud‑based SCADA systems.
 ### GoVAC MAX — Advanced Natural Gas Recompression
 [→ Read explainer](/explainers/GoVACMAX)
