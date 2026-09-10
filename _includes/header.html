@@ -1,8 +1,13 @@
 <header class="site-header">
-  <div class="header-inner">
-    <a class="site-title" href="{{ '/' | relative_url }}">Jason Vosburgh</a>
+  <div class="header-container">
 
-    <nav class="site-nav">
+    <!-- Brand / Logo -->
+    <a class="brand" href="{{ '/' | relative_url }}">
+      Jason Vosburgh
+    </a>
+
+    <!-- Navigation -->
+    <nav class="top-nav">
       <a href="{{ '/index.html' | relative_url }}">Home</a>
       <a href="{{ '/explainers.html' | relative_url }}">Explainers</a>
       <a href="{{ '/frameworks.html' | relative_url }}">Frameworks</a>
@@ -12,5 +17,6 @@
       <a href="{{ '/skills.html' | relative_url }}">Skills</a>
       <a href="{{ '/education.html' | relative_url }}">Education</a>
     </nav>
+
   </div>
 </header>

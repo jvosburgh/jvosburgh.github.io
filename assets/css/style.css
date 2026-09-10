@@ -66,30 +66,36 @@ section {
 /* Header */
 .site-header {
     border-bottom: 1px solid #e5e5e5;
-    padding: 1rem 0;
+    padding: 1.25rem 0;
     margin-bottom: 2rem;
+    background: #fff;
 }
 
-.header-inner {
+.header-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1rem;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.site-title {
-    font-size: 1.25rem;
+.brand {
+    font-size: 1.35rem;
     font-weight: 600;
     color: #111;
     text-decoration: none;
+    letter-spacing: 0.3px;
 }
 
-.site-nav a {
-    margin-left: 1rem;
+.top-nav a {
+    margin-left: 1.25rem;
+    font-weight: 500;
     color: #0066cc;
     text-decoration: none;
-    font-weight: 500;
 }
 
-.site-nav a:hover {
+.top-nav a:hover {
     text-decoration: underline;
 }
