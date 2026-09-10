@@ -89,11 +89,19 @@ section {
     letter-spacing: 0.3px;
 }
 
+/* Top Navigation */
 .top-nav a {
     margin-left: 1.25rem;
+    padding: 0 0.75rem;
     font-weight: 500;
     color: #0066cc;
     text-decoration: none;
+    border-left: 1px solid #ccc;
+}
+
+.top-nav a:first-child {
+    border-left: none; /* Remove divider before first item */
+    padding-left: 0;
 }
 
 .top-nav a:hover {
