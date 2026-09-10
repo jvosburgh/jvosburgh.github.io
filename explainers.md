@@ -1,8 +1,3 @@
----
-title: Explainers
-layout: default
----
-
 # Technical Explainers
 
 ### Pipeline Evacuation and Methane Capture Systems
