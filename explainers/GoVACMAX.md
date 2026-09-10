@@ -1,3 +1,8 @@
+---
+title: Jason Vosburgh Technical Explaner for the GoVAC® MAX System Product
+layout: default
+---
+
 # GoVAC® MAX — Advanced Natural Gas Recompression System
 
 ## Overview
