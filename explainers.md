@@ -2,6 +2,11 @@
 
 ### Pipeline Evacuation & Methane Capture Systems
 Breakdown of how emission‑reduction compressors draw down pipelines, capture gas, and integrate with cloud‑based SCADA systems.
+### GoVAC MAX — Advanced Natural Gas Recompression
+[→ Read explainer](/explainers/GoVACMAX)
+
+### GoVAC FLEX — Compact Natural Gas Capture & Transfer
+[→ Read explainer](/explainers/GoVACFLEX)
 
 ### Cloud‑Based SCADA Data Flows
 Explains how operational data is ingested, processed, visualized, and used by utility operators and ESG teams.
