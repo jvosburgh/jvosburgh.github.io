@@ -3,7 +3,7 @@ title: Explainers
 layout: default
 ---
 
-### Technical Explainers
+# Technical Explainers
 
 ### Pipeline Evacuation and Methane Capture Systems
 Breakdown of how emission‑reduction compressors draw down pipelines, capture gas, and integrate with cloud‑based SCADA systems.
