@@ -54,7 +54,7 @@ Analyzed customer feedback across sales calls, support tickets, surveys, and CRM
 ## AI‑Connected Sales Enablement & Dynamic Pricing
 
 Connected AI directly to product documentation and operational systems to generate up-to-date sales materials and support inventory-aware pricing decisions.
-[→ Read ](/ai-examples/sales-enablement-one)
+[→ Read ](/ai-examples/ai-sales-enablement-one)
 
 ---
 
