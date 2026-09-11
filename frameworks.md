@@ -20,7 +20,7 @@ This approach ensures manufacturing products are validated through evidence, not
 ## Technical Narrative Development
 Capability → workflow → value → proof → differentiation.
 ### Example: GoVAC MAX Market Narrative
-[→ Read ](/gtm-frameworks/market-validation-loop-govacmax)
+[→ Read ](/narratives/govac-max-market-narrative)
 
 ## PLG Activation → Conversion Motion
 Trial setup → data ingestion → evaluation path → usage triggers → ROI modeling.
