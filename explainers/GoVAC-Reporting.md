@@ -1,4 +1,8 @@
-# Cloud-Based SCADA Data Flows — How Operational Data Is Ingested, Processed, Visualized, and Used by Utility Operators & ESG Teams
+---
+title: Jason Vosburgh Technical Explaner for the GoVAC® System Cloud-Based SCADA Data Flows
+layout: default
+---
+# How Operational Data Is Ingested, Processed, Visualized, and Used by Utility Operators & ESG Teams
 
 ## Overview
 Pipeline evacuation and gas-capture operations generate large volumes of telemetry: pressures, temperatures, flow rates, engine performance, and environmental metrics. The GoVAC® IloT Reporting System transforms this raw field data into structured, actionable intelligence through a cloud-based SCADA workflow. Utility operators use this data to manage operations in real time, while ESG teams rely on it for emissions accounting, regulatory reporting, and methane-reduction verification.
