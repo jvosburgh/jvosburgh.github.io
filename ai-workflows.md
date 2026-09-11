@@ -44,21 +44,21 @@ Automates prospect research, persona development, audience segmentation, and per
 
 ---
 
-### Customer Insight Synthesis → Product Development
+## Customer Insight Synthesis → Product Development
 
 Analyzed customer feedback across sales calls, support tickets, surveys, and CRM records to identify unmet market needs that directly informed the development of a new product offering.
 [→ Read ](/ai-examples/ai-new-product-line)
 
 ---
 
-### AI‑Connected Sales Enablement & Dynamic Pricing
+## AI‑Connected Sales Enablement & Dynamic Pricing
 
 Connected AI directly to product documentation and operational systems to generate up-to-date sales materials and support inventory-aware pricing decisions.
 [→ Read ](/ai-examples/sales-enablement-one)
 
 ---
 
-### AI Meeting Analysis → Messaging Optimization
+## AI Meeting Analysis → Messaging Optimization
 
 Analyzed patterns across recorded prospect meetings to identify which themes resonated most strongly with buyers, resulting in a shift from feature-focused messaging to outcome-driven positioning.
 
