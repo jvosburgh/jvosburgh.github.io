@@ -2,7 +2,7 @@
 title: Jason Vosburgh PMM Portfolio
 layout: default
 ---
-## Energy • Climate Tech • Industrial SaaS • AI Workflows
+# Energy • Climate Tech • Industrial SaaS • AI Workflows
 
 I help technical companies turn complex products into clear market narratives and customer adoption.
 
