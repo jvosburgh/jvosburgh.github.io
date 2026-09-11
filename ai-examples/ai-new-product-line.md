@@ -2,12 +2,6 @@
 title: New Product Line
 layout: default
 ---
----
-layout: default
-title: AI-Driven Customer Synthesis → New Product Line
-permalink: /case-studies/customer-synthesis-new-product-line/
----
-
 # AI-Driven Customer Synthesis → New Product Line
 
 **Company:** Onboard Dynamics  
@@ -143,4 +137,4 @@ Most importantly, the insight generated through AI analysis directly influenced 
 
 ---
 
-## Core Capability Demonstrated
+
