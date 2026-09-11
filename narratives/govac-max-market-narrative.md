@@ -20,7 +20,7 @@ The challenge was to establish a compelling market narrative that connected chan
 
 ## Insight
 
-My research uncovered a critical market truth:
+The research uncovered a critical market truth:
 
 **Pipeline blowdowns represent one of the largest overlooked methane reduction opportunities in the natural gas industry.**
 
