@@ -2,7 +2,7 @@
 title: Jason Vosburgh GoVAC MAX Market Validation Loop
 layout: default
 ---
-# Market Validation Loop: GoVAC™ MAX Market Opportunity
+# Market Validation Loop: GoVAC® MAX Market Opportunity
 **Author:** Jason Vosburgh  
 **Last Updated:** August 2022
 
@@ -151,4 +151,10 @@ The market hypothesis is validated. The GoVAC MAX opportunity warrants continued
 
 ---
 
-## Market Validation Loop Diagram
+## Market Validation Loop
+
+**Problem definition → signal scoring → customer interviews → narrative refinement → iteration**
+
+**Hypothesis → signal definition → extract data → normalize data → analyze → adjust → validate problem (serviceable vs non‑serviceable) → cross‑dataset validation → synthesize (TAM, segmentation, variance analysis) → decision (advance, refine, or kill) → new hypothesis**
+
+
