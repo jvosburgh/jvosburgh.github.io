@@ -37,5 +37,5 @@ Through strategic messaging, customer-focused positioning, and solution storytel
 - Sales and customer communication support
 
 
-➡️ [View the Full GoVAC® MAX Narrative](govac-max-market-narrative)
+➡️ [View the Full GoVAC® MAX Narrative](narratives/govac-max-market-narrative)
 

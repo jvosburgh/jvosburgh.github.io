@@ -88,8 +88,6 @@ The narrative became the foundation for:
 
 ## Why This Example Matters
 
-This project demonstrates a core product marketing capability: transforming market research into strategic positioning.
-
 The value was not simply sizing a market. It was uncovering a market truth, defining the customer problem behind the data, translating technical differentiation into customer value, and developing a narrative that changed how customers, stakeholders, and investors understood both the problem and the role of the product in solving it.
 
 Rather than leading with technology, the narrative led with a simple insight:
