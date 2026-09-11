@@ -1,6 +1,8 @@
-Energy • Climate Tech • Industrial SaaS • AI Workflows
+## Energy • Climate Tech • Industrial SaaS • AI Workflows
 
-I partner with early‑stage software and manufacturing teams to validate markets, sharpen technical narratives, and accelerate adoption of complex B2B and AI‑driven products. Working across climate tech, healthcare, industrial systems, and SaaS, I translate cloud, data, analytics, and AI/ML capabilities into clear value stories that improve sales effectiveness, strengthen pipeline quality, and support revenue growth.
+I help technical companies turn complex products into clear market narratives and customer adoption.
+
+My work spans climate technology, industrial systems, healthcare, SaaS, and AI-enabled platforms. Through technical storytelling, market validation, AI-assisted research, and go-to-market strategy, I help early-stage teams accelerate growth and adoption.
 
 ---
 
