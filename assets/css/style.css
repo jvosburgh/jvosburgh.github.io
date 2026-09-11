@@ -1,30 +1,49 @@
+:root {
+    --navy: #0a2540;
+    --blue: #0066cc;
+    --teal: #167a7a;
+    --light: #f5f7fa;
+    --text: #334155;
+}
+
 /* Base Typography */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
-    color: #222;
-    max-width: 800px;
+    color: #f5f7fa;
+    max-width: 1100px;
     margin: 0 auto;
     padding: 2rem;
 }
 
 /* Headings */
-h1, h2, h3 {
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #0a2540;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0a2540;
+}
+
+h3 {
+    font-size: 1.3rem;
     font-weight: 600;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    color: #111;
 }
 
 /* Links */
 a {
     color: #0066cc;
-    text-decoration: none;
-    font-weight: 500;
+    transition: all .2s ease;
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #004999;
+    text-decoration: none;
 }
 
 /* Horizontal Rule */
@@ -44,12 +63,27 @@ hr {
     margin-bottom: 1rem;
 }
 
+.featured-work {
+    background: white;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 3px 12px rgba(0,0,0,.08);
+    transition: all .2s ease;
+}
+
+.featured-work:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,.12);
+}
+
 /* Buttons / Link Arrows */
 a.arrow-link {
     display: inline-block;
     margin-top: 0.25rem;
     font-weight: 600;
 }
+
+
 
 /* Contact Section */
 .contact {
@@ -60,15 +94,18 @@ a.arrow-link {
 
 /* Spacing Cleanup */
 section {
-    margin-bottom: 2.5rem;
+    margin-bottom: 5rem;
 }
 
 /* Header */
 .site-header {
-    border-bottom: 1px solid #e5e5e5;
-    padding: 1.25rem 0;
-    margin-bottom: 2rem;
-    background: #fff;
+    background: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 1.5rem 0;
+    margin-bottom: 3rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .header-container {
@@ -91,12 +128,14 @@ section {
 
 /* Top Navigation */
 .top-nav a {
-    margin-left: 1.25rem;
-    padding: 0 0.75rem;
-    font-weight: 500;
+    color: #334155;
+    font-weight: 600;
+    transition: color .2s ease;
+}
+
+.top-nav a:hover {
     color: #0066cc;
     text-decoration: none;
-    border-left: 1px solid #ccc;
 }
 
 .top-nav a:first-child {
@@ -107,3 +146,4 @@ section {
 .top-nav a:hover {
     text-decoration: underline;
 }
+
