@@ -1,3 +1,7 @@
+---
+title: Reinventing Electrical Grid Protection
+layout: default
+---
 # Technology Assessment: Reinventing Electrical Grid Protection
 
 ## Overview
