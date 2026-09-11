@@ -36,9 +36,6 @@ Through strategic messaging, customer-focused positioning, and solution storytel
 - Website and digital content development
 - Sales and customer communication support
 
-**Portfolio Focus**
 
-This example highlights my ability to build a product narrative that bridges engineering complexity and customer value, creating a story that supports awareness, consideration, and adoption across the buyer journey.
-
-➡️ [View the Full GoVAC® MAX Narrative](govac-max.md)
+➡️ [View the Full GoVAC® MAX Narrative](govac-max-market-narrative)
 
