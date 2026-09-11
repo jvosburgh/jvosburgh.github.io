@@ -18,6 +18,5 @@ Explains how operational data is ingested, processed, visualized, and used by ut
 ### Overview of Operational Reporting During Pipeline Evacuations
 [→ Read ](/explainers/GoVAC-Reporting)
 
-### Early‑Stage SaaS Analytics Platforms
-Explains data ingestion, modeling, and visualization workflows for climate analytics, CCUS, and industrial automation platforms.
+
 
