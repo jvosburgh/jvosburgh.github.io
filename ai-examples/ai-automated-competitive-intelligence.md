@@ -46,6 +46,9 @@ The workflow generated a daily briefing and delivered it directly to Telegram, p
 
 ---
 
+## Key Attributes
+This is an example of a repeatable, automated system rather than a one-off AI-assisted task. It’s chaining multiple AI and data tools together to replace what would otherwise require a dedicated competitive intelligence analyst. It reflects the kind of AI-first workflow design that turns a lean, single-person marketing function into one with the market visibility of a much larger team.
+
 ## AI Workflow
 
 ```text
