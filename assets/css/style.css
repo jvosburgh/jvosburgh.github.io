@@ -127,23 +127,34 @@ section {
 }
 
 /* Top Navigation */
+.top-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 20px 0;
+    border-bottom: 1px solid #e5e7eb;
+}
+
 .top-nav a {
-    color: #334155;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
     font-weight: 600;
-    transition: color .2s ease;
+    color: #374151;
+    text-decoration: none;
+    letter-spacing: 0.3px;
+    transition: color 0.2s ease;
 }
 
 .top-nav a:hover {
-    color: #0066cc;
-    text-decoration: none;
+    color: #2563eb;
 }
 
-.top-nav a:first-child {
-    border-left: none; /* Remove divider before first item */
+/*.top-nav a:first-child {
+    border-left: none; 
     padding-left: 0;
 }
+*/
 
-.top-nav a:hover {
-    text-decoration: underline;
-}
+
 
