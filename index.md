@@ -2,7 +2,8 @@
 title: Jason Vosburgh PMM Portfolio
 layout: default
 ---
-# Product Marketing | Positioning • Messaging • Customer Insights • GTM Strategy
+# Product Marketing 
+## Positioning • Messaging • Customer Insights • GTM Strategy
 
 I help technical teams bring products to market by transforming complex capabilities into compelling customer value.
 
