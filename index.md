@@ -2,11 +2,13 @@
 title: Jason Vosburgh PMM Portfolio
 layout: default
 ---
-# Energy • Climate Tech • Industrial SaaS • AI Workflows
+# Product Marketing | Positioning • Messaging • Customer Insights • GTM Strategy
 
-I help technical companies turn complex products into clear market narratives and customer adoption.
+I help technical teams bring products to market by transforming complex capabilities into compelling customer value.
 
-My work spans climate technology, industrial systems, healthcare, SaaS, and AI-enabled platforms. Through technical storytelling, market validation, AI-assisted research, and go-to-market strategy, I help early-stage teams accelerate growth and adoption.
+My experience spans SaaS, AI-enabled platforms, healthcare, climate technology, and industrial solutions. I develop product narratives, positioning, messaging frameworks, market insights, and go-to-market strategies that drive adoption, strengthen sales engagement, and accelerate growth.
+
+By combining customer research, competitive analysis, technical storytelling, and AI-powered workflows, I help organizations launch products, enter new markets, and create meaningful customer impact.
 
 ---
 
