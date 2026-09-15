@@ -22,9 +22,9 @@ Capability → workflow → value → proof → differentiation.
 ### Example: GoVAC MAX Market Narrative
 [→ Read ](/narratives/govac-max-market-narrative)
 
-## PLG Activation → Conversion Motion
+<!-- ## PLG Activation → Conversion Motion
 Trial setup → data ingestion → evaluation path → usage triggers → ROI modeling.
 
 ## Competitive Intelligence Engine (AI‑Accelerated)
-Automated research → persona‑specific briefs → sales enablement.
+Automated research → persona‑specific briefs → sales enablement. -->
 
